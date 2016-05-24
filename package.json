@@ -1,7 +1,7 @@
 {
     "name": "jquery-columnify",
-    "version": "4.1.0",
-    "description": "A jump-start for jQuery plugins development.",
+    "version": "1.0.0",
+    "description": "jQuery Plugin to responsively reflow child elements into columns.",
     "keywords": [
         "jquery-plugin",
         "jquery",

@@ -1,13 +1,3 @@
-/*!
- * jQuery Responsive Columns (Columnify)
- * 
- * Version: @version@
- * Copyright 2013 James Buncle
- * 
- * Released under the MIT license.
- * http://jquery.org/license
- *
- */
 (function ($) {
     "use strict";
     function columnify($parent, settings) {

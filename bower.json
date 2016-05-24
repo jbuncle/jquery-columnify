@@ -4,7 +4,7 @@
     "authors": [
         "James Buncle <jbuncle@hotmail.com>"
     ],
-    "description": "A jump-start for jQuery plugins development.",
+    "description": "jQuery Plugin to responsively reflow child elements into columns.",
     "keywords": [
         "jquery",
         "plugin",

@@ -1,20 +1,10 @@
 /*
- *  jquery-columnify - v4.1.0
- *  A jump-start for jQuery plugins development.
+ *  jquery-columnify - v1.0.0
+ *  jQuery Plugin to responsively reflow child elements into columns.
  *  
  *
  *  Made by James Buncle
  *  Under MIT License
- */
-/*!
- * jQuery Responsive Columns (Columnify)
- * 
- * Version: @version@
- * Copyright 2013 James Buncle
- * 
- * Released under the MIT license.
- * http://jquery.org/license
- *
  */
 (function ($) {
     "use strict";
