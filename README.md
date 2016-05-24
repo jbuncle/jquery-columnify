@@ -18,13 +18,13 @@ jQuery Plugin to responsively reflow child elements into columns
 
 3. Call the plugin:
 
-        ```javascript 
+	```javascript
         //Example
         $(window).load(function(){
             //Wait for full page load to get correct content sizes
             $('ul').columnify({options});
         });
-        ```
+	```
 
 ### Options
 
