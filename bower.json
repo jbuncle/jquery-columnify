@@ -1,0 +1,24 @@
+{
+    "name": "jquery-columnify",
+    "license": "MIT",
+    "authors": [
+        "James Buncle <jbuncle@hotmail.com>"
+    ],
+    "description": "A jump-start for jQuery plugins development.",
+    "keywords": [
+        "jquery",
+        "plugin",
+        "columnify",
+        "jquery-plugin",
+        "jquery-columnify"
+    ],
+    "main": "src/jquery.columnify.js",
+    "dependencies": {
+        "jquery": "1"
+    },
+    "ignore": [
+        "npm-debug.log",
+        "bower_components",
+        "node_modules"
+    ]
+}

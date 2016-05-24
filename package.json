@@ -1,0 +1,44 @@
+{
+    "name": "jquery-columnify",
+    "version": "4.1.0",
+    "description": "A jump-start for jQuery plugins development.",
+    "keywords": [
+        "jquery-plugin",
+        "jquery",
+        "columnify",
+        "plugins"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jbuncle/jquery-columnify.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jbuncle/jquery-columnify/issues"
+    },
+    "author": {
+        "name": "James Buncle",
+        "email": " jbuncle@hotmail.com",
+        "url": "https://github.com/zenorocha"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "jquery": ">=1.5.1"
+    },
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-contrib-coffee": "^0.13.0",
+        "grunt-contrib-concat": "^0.5.1",
+        "grunt-contrib-uglify": "^0.9.2",
+        "grunt-contrib-watch": "^0.6.1",
+        "grunt-karma": "^0.12.0",
+        "karma": "^0.13.21",
+        "karma-firefox-launcher": "^0.1.6",
+        "karma-phantomjs-launcher": "^0.2.1",
+        "karma-qunit": "^0.1.5",
+        "phantomjs": "^1.9.18",
+        "qunitjs": "^1.19.0"
+    },
+    "scripts": {
+        "test": "grunt travis --verbose"
+    }
+}
