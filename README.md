@@ -1,6 +1,7 @@
 # jQuery Columnify
 
 [![Build Status](https://travis-ci.org/jbuncle/jquery-columnify.svg?branch=master)](https://travis-ci.org/jbuncle/jquery-columnify)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7d760885c68e4d60845e7d5ad3ed5729)](https://www.codacy.com/app/jbuncle/jquery-columnify?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jbuncle/jquery-columnify&amp;utm_campaign=Badge_Grade)
 
 jQuery Plugin to responsively reflow child elements into columns
 
